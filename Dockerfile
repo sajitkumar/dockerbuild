@@ -1,1 +1,1 @@
-
+From ubuntu:latest
